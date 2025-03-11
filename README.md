@@ -8,4 +8,4 @@ Le nom des fichiers est ok mais peut être amélioré pour une meilleure arbores
 
 PDO mit en place ainsi qu'un trycatch.
 
-HTML Commencé mais pas poussé il faudra l'essayer également.
+HTML Commencé mais pas poussé il faudra le continuer.
