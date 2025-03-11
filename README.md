@@ -9,3 +9,5 @@ Le nom des fichiers est ok mais peut être amélioré pour une meilleure arbores
 PDO mit en place ainsi qu'un trycatch.
 
 HTML Commencé mais pas poussé il faudra le continuer.
+
+SQL Exporté dans le dépôt GIT.
