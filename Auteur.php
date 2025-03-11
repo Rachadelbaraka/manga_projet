@@ -24,4 +24,3 @@ class Auteur {
         return new Auteur($row['nom']);
     }
 }
-?>

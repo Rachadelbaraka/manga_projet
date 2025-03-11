@@ -35,4 +35,4 @@ class Manga {
         return $mangas;
     }
 }
-?>
+
